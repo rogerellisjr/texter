@@ -1,3 +1,5 @@
 ss.txt
 belle.txt
 ff.txt
+*.un~
+.gitignore~
