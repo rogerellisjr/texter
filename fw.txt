@@ -1,0 +1,2 @@
+  <global file="Wolf_Classic_global_change" />
+  <tooltip file="Wolf_Classic_tooltips" />

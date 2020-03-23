@@ -1,0 +1,2 @@
+Special Order items are not in stock and require a longer lead
+time to deliver. Lead time could exceed 6 weeks.

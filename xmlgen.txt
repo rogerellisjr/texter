@@ -1,1 +1,1 @@
-XmlGen "C:\Users\rellis\Appliance Replacement Inc\Wood CAD CAM Project Team - XML-GEN\XML-GEN_01\xml-config.txt"
+XmlGen "C:\Users\rellis\Development\WCC\xml-config-kk.txt"

@@ -1,0 +1,3 @@
+cdd A:\xGen\bin
+
+xgen gen --path ../wolf_classic
